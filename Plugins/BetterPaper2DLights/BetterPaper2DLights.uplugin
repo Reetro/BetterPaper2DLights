@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BetterPaper2DLights",
+	"Description": "This plugin adds a variety of 2D lighting components ",
+	"Category": "Other",
+	"CreatedBy": "Reetro_69",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+    {
+      "Name": "BetterPaper2DLights",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+	]
+}
