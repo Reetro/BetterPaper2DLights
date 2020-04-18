@@ -2,4 +2,8 @@
 
 
 #include "Paper2DLightBaseComponent.h"
+#include "UObject/ConstructorHelpers.h"
+#include "RenderingThread.h"
+#include "Engine/Texture2D.h"
+#include "SceneManagement.h"
 
