@@ -9,7 +9,7 @@
 class UBoxComponent;
 
 /**
- * 
+ *  A light component which emits light from a single point equally in all directions but constrained to a 2D plane
  */
 UCLASS(Blueprintable, ClassGroup = (Lights, Common), hidecategories = (Object, LightShafts), editinlinenew, meta = (BlueprintSpawnableComponent))
 class BETTERPAPER2DLIGHTS_API UPaperBoxLightComponent : public UPaper2DLightBaseComponent
